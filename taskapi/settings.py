@@ -133,5 +133,5 @@ STATICFILES_STORAGE = 'whitenoise.storage.CompressedManifestStaticFilesStorage'
 
 CORS_ALLOWED_ORIGINS = [
     "http://localhost:5173",
-    "https://todo-tasks-zklc.vercel.app/",
+    "https://todo-tasks-zklc.vercel.app",
 ]
